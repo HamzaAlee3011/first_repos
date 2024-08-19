@@ -24,7 +24,7 @@ download_resume()
 
 intro_para = """
 **Hi there!** 👋  
-**Ameer Hamza Ali** here!
+**AmeeAli** here!
 ---
 An undergraduate student pursuing a degree in **Civil Engineering** at **NED University of Engineering & Technology**. I am deeply interested in integrating modern technology into traditional civil engineering practices, and I love exploring how modern technology can revolutionize our field. I’m always on the lookout for the latest trends and enjoy applying them to real-world projects.
 """
