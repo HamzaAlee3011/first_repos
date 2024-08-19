@@ -125,11 +125,11 @@ with colb:
 
         st.write("- #### :grey-background[Revit]")
         st.write(
-            "*Skilled in 3D architectural and structural modeling with a deep understanding of Building Information Modeling (BIM) processes.*")
+            "*Skilled in 3D architectural and structural modeling with a high interest in Building Information Modeling (BIM).*")
 
         st.write("- #### :grey-background[MS Office]")
         st.write(
-            "*Proficient in the entire MS Office suite, with advanced skills in MS Word and MS Excel for documentation and data analysis.*")
+            "*Proficient in the MS Office suite, with advanced skills in MS Word and MS Excel for documentation and data analysis.*")
 
         st.write("- #### :grey-background[Python]")
         st.write(
