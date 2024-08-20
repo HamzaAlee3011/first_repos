@@ -42,7 +42,7 @@ def stream_data():
 
 
 # HERO SECTION
-col1, col2 = st.columns([1,2], gap='small', vertical_alignment='center')
+col1, col2 = st.columns([1.12, 2], gap='small', vertical_alignment='center')
 with col1:
 
     st.image('./assets/person_30dp_E8EAED_FILL0_wght400_GRAD0_opsz24.svg', width=200)
