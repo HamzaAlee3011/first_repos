@@ -45,7 +45,7 @@ def stream_data():
 col1, col2 = st.columns([1.12, 2], gap='small', vertical_alignment='center')
 with col1:
 
-    st.image('./assets/person_30dp_E8EAED_FILL0_wght400_GRAD0_opsz24.svg', width=200)
+    st.image('./assets/person_30dp_E8EAED_FILL0_wght400_GRAD0_opsz24.svg', use_column_width='always')
 with col2:
     # st.title('Ameer Hamza Ali', anchor=False)
     st.write_stream(stream_data)
