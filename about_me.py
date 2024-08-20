@@ -20,7 +20,7 @@ def download_resume():
     ):
         st.balloons()
 
-download_resume()
+# download_resume()
 
 intro_para = """
 **Hi there!** 👋  
